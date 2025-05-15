@@ -1,0 +1,15 @@
+
+=== Task 4: SQL Query Results ===
+
+--- Hour with highest average response time ---
+('22', 905.1775147928994)
+
+--- IPs with more than 100 requests with 429 status code ---
+('119.103.226.136', 358)
+('122.157.29.219', 363)
+('148.57.203.182', 344)
+('17.237.57.99', 338)
+('81.233.238.12', 333)
+
+--- Total bytes sent for requests with response time > 500ms ---
+(10719865,)

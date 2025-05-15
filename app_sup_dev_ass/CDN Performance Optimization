@@ -1,0 +1,4 @@
+CDN Performance Optimization Recommendation:
+To improve CDN performance, implement rate limiting and IP-based throttling to block or slow down suspicious.
+clients generating excessive requests within a short time window. Additionally, 
+optimize caching strategies by increasing cache TTL during peak hours to reduce origin server load and improve response times.
